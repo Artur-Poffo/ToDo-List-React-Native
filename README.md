@@ -1,3 +1,5 @@
+<img src="https://images2.imgbox.com/88/04/HwMhfMQC_o.png" alt="Print of project" >
+
 # My First React-Native App (ToDo List):
 
 > Status: Version: 1.0.0

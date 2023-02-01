@@ -9,7 +9,7 @@ import Modal from "../../components/Modal"
 import AddButonn from "../../components/AddButton"
 
 export default function Home() {
-  const [tasks, setTasks] = useState(['teste', 'teste1', 'teste2'])
+  const [tasks, setTasks] = useState([])
   const [showModal, setShowModal] = useState(false)
 
   return (
