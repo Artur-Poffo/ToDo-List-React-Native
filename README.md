@@ -18,3 +18,5 @@ anyway, the project is a simple ToDo List with the basics of <code>useState()</c
 - Expo (With Custom Font)
 - Styled-Components (With Theme)
 - react-native-bouncy-checkbox
+
+> design credits: <a href="https://github.com/craftzdog" >Takuya Matsuyama</a>
